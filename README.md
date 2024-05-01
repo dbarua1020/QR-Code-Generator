@@ -5,7 +5,7 @@
 <h2> QR Code Generator  </h2> <br>
 This project enables users to generate QR codes using Node.js. QR codes are a popular way to encode information such as URLs, text, contact details, and more into a two-dimensional barcode that can be easily scanned by smartphones and other devices.
 
-<h3>Features: </h3> <br>
+<h3>Features: </h3> 
 • User Input: Prompt users to input the content for the QR code generation, ensuring flexibility and customization. <br>
 • QR Code Generation: Utilize the qrcode library in Node.js to dynamically generate QR codes based on user-provided content. <br>
 • Customization: Allow users to customize the appearance and properties of the generated QR codes, such as size, color, and error correction level. <br>
@@ -16,7 +16,7 @@ This project enables users to generate QR codes using Node.js. QR codes are a po
 2. Install dependencies using npm install. <br>
 3. Run the application using node index.js. <br>
 4. Follow the on-screen prompts to input the content for the QR code. <br>
-5. View the generated QR code in the specified output format. <br>
+5. View the generated QR code in the specified output format. <br> <br>
 
 <h3> Dependencies: </h3>
 • inquirer: A popular library for creating command-line interfaces in Node.js. <br>
